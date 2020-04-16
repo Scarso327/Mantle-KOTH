@@ -1,0 +1,14 @@
+/* #Roqepa
+$[
+	1.063,
+	["asd",[[0,0,1,1],0.025,0.04,"GUI_GRID"],0,0,0],
+	[2200,"",[1,"",["0.314375 * safezoneW + safezoneX","0.302 * safezoneH + safezoneY","0.37125 * safezoneW","0.396 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2201,"",[1,"",["0.324687 * safezoneW + safezoneX","0.324 * safezoneH + safezoneY","0.113437 * safezoneW","0.088 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2202,"",[1,"",["0.443281 * safezoneW + safezoneX","0.324 * safezoneH + safezoneY","0.0360937 * safezoneW","0.088 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2204,"",[1,"",["0.551562 * safezoneW + safezoneX","0.39 * safezoneH + safezoneY","0.12375 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[1100,"",[1,"<t size='1.5'>PDW2000 9mm</t>",["0.484531 * safezoneW + safezoneX","0.324 * safezoneH + safezoneY","0.190781 * safezoneW","0.033 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","2"],[]],
+	[2203,"",[1,"",["0.551562 * safezoneW + safezoneX","0.364 * safezoneH + safezoneY","0.12375 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2205,"",[1,"",["0.484531 * safezoneW + safezoneX","0.364 * safezoneH + safezoneY","0.0670312 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]],
+	[2206,"",[1,"",["0.484531 * safezoneW + safezoneX","0.39 * safezoneH + safezoneY","0.0670312 * safezoneW","0.022 * safezoneH"],[-1,-1,-1,-1],[-1,-1,-1,-1],[-1,-1,-1,-1],"","-1"],[]]
+]
+*/

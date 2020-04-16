@@ -1,0 +1,55 @@
+disabledAI = 1;
+enableDebugConsole = 1;
+allowFunctionsLog = 1;
+saving = 0;
+
+#include "client\dialogs\common.hpp"
+#include "client\dialogs\store.hpp"
+
+#include "CfgStores.hpp"
+#include "CfgZones.hpp"
+
+class CfgLevels {
+	baseXP = 4000;
+	maxLevel = 100;
+};
+
+class RscTitles {
+    #include "client\dialogs\hud.hpp"
+	#include "client\dialogs\dead.hpp"
+};
+
+class CfgFunctions {
+    #include "CfgFunctions.hpp"
+};
+
+class CfgDebriefing
+{  
+	class End0
+	{
+		title = "Round is over";
+		subtitle = "";
+		description = "NATO is now the King of the Hill!";
+		pictureBackground = "";
+		picture = "b_inf";
+		pictureColor[] = {0.0,0.3,0.6,1};
+	};
+	class End1
+	{
+		title = "Round is over";
+		subtitle = "";
+		description = "CSAT is now the King of the Hill!";
+		pictureBackground = "";
+		picture = "b_inf";
+		pictureColor[] = {0.5,0,0,1};
+	};
+	class End2
+	{
+		title = "Round is over";
+		subtitle = "";
+		description = "AAF is now the King of the Hill!";
+		pictureBackground = "";
+		picture = "b_inf";
+		pictureColor[] = {0,0.5,0,1};
+	};
+};
